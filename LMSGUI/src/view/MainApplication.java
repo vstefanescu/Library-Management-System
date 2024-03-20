@@ -21,7 +21,7 @@ public class MainApplication extends Application {
 		
 		Label authorLabel = new Label("Author:");
 		TextField authorField = new TextField();
-
+ 
 		Label yearLabel = new Label("Year:");
 		TextField yearField = new TextField();
 		
